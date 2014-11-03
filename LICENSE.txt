@@ -1,0 +1,4 @@
+This project has no license. If it had, it would include horrible things.
+
+This is possible since I'm not using public github but my own instance.
+Because I'm bad, I'm bad...
